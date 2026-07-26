@@ -8,7 +8,7 @@
       "customer": "Admin",
       "issued_utc": "2026-07-26T09:46:31Z",
       "expires_utc": "2027-07-26T09:00:00Z",
-      "note": "Gói 12 tháng,
+      "note": "Gói 12 tháng"
     }
   }
 }
