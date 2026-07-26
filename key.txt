@@ -1,17 +1,22 @@
+
+
+
 {
   "schema": 1,
   "product": "render-video-commercial-pro-max",
-  "updated_utc": "2026-07-26T09:00:00Z",
+  "updated_utc": "2026-07-26T09:46:31Z",
   "licenses": {
     "RVPM-59BCA-7847D-76183-90B8D-3E54C": {
       "product": "render-video-commercial-pro-max",
       "machine_key": "RVPM-59BCA-7847D-76183-90B8D-3E54C",
       "customer": "Admin",
-      "issued_utc": "2026-07-26T09:00:00Z",
+      "issued_utc": "2026-07-26T09:46:31Z",
       "expires_utc": "2027-07-26T09:00:00Z",
-      "features": ["full"],
-      "note": "Gói 12 tháng",
-      "signature": "CHU_KY_DO_SCRIPT_TAO"
+      "features": [
+        "full"
+      ],
+      "note": "Gói 12 tháng - ký hợp lệ V6.1",
+      "signature": "zgbgM6Ggbg1LJi+KCb2gfduygfyh1cQ9e0aBvPM2wQQwBfMVcnfUBAbyVoJH0hjliKol9WxDqfdgK7N5FTeyDQ=="
     }
   }
 }
