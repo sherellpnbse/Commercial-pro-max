@@ -3,7 +3,7 @@
   "product": "render-video-pro-max",
   "updated_utc": "2026-07-26T09:46:31Z",
   "licenses": {
-    "RVPM-59BCA-7847D-76183-90B8D-3E54C": {
+    "RVPM-F6CCB-F720E-7DB27-74345-E8A91": {
       "product": "render-video-pro-max",
       "customer": "Admin",
       "issued_utc": "2026-07-26T09:46:31Z",
