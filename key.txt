@@ -10,7 +10,7 @@
       "expires_utc": "2027-07-26T09:00:00Z",
       "note": "Gói 12 tháng"
     },
-    "RVPM-F6CCB-F720E-7DB27-s": {
+    "RVPM-59BCA-7847D-76183-90B8D-3E54C": {
       "product": "render-video-pro-max",
       "customer": "AdminMC",
       "issued_utc": "2026-10-16T09:46:31Z",
